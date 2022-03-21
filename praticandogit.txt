@@ -1,2 +1,3 @@
-primeiro comandos com github
-aprendo usar eles corretamente
+primeiro comandos com git
+
+aprendo esse ano como mexer no git
